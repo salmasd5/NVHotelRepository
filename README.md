@@ -48,17 +48,5 @@ Backend: Spring Boot
 Database: MySQL
 Authentication: JWT
 API: REST
-Contributing
-If you would like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a Pull Request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
-Thank you to all contributors and libraries used in this project.
 
