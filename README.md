@@ -14,17 +14,14 @@ To run the backend, follow these steps:
 1. Navigate to the backend directory:
    ```bash
    cd backend
-Run the following command to clean and install dependencies (skipping tests):
-bash
+2. Run the following command to clean and install dependencies (skipping tests):
+    ```bash
+   mvn clean install -DskipTests
+3. Start the Spring Boot application:
+    ```bash
+   mvn spring-boot:run
 
-Copier
-mvn clean install -DskipTests
-Start the Spring Boot application:
-bash
-
-Copier
-mvn spring-boot:run
-Frontend Setup
+## Frontend Setup
 To run the frontend, follow these steps:
 
 Navigate to the frontend directory:
